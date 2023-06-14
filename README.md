@@ -7,14 +7,23 @@ The train transportation system is not well developed in Kenya so people have to
 The data contains 51645 rows × 10 columns. As same ride was booked my mutiple persons after counting the bookings for same rides the data rows were reduced to 6249 rows
 
 ride_id	: ID of the ride 
+
 seat_number	: seat number booked or assigned
+
 payment_method	
+
 payment_receipt	
+
 travel_date	: Date of travelling
+
 travel_time	: Time of travel
+
 travel_from	: city of origin
+
 travel_to	: Nairobi
+
 car_type	: Bus or shuttle
+
 max_capacity : Maximum capacity of the medium of travel
 
 **Exploratory Data Analysis**
